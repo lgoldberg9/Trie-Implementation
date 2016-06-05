@@ -1,0 +1,35 @@
+Computing Time for Holmes.txt
+insertAll(): 0.14275622367858887 seconds
+insert(Holmes): 3.24249267578125e-05 seconds
+lookup(wumpus): 2.1457672119140625e-05 seconds
+remove(king): 3.170967102050781e-05 seconds
+minElement(): 0.12666630744934082 seconds
+maxElement(): 0.1197049617767334 seconds
+totalTime: 0.24645686149597168 seconds
+
+Computing Time for words2.txt
+insertAll(): 0.38614892959594727 seconds
+insert(likely): 2.9802322387695312e-05 seconds
+lookup(hyphenation): 1.5020370483398438e-05 seconds
+remove(brisk): 0.00016617774963378906 seconds
+minElement(): 1.678452730178833 seconds
+maxElement(): 1.7946021556854248 seconds
+totalTime: 3.4732658863067627 seconds
+
+Computing Time for words.txt
+insertAll(): 0.38605690002441406 seconds
+insert(): 3.337860107421875e-06 seconds
+lookup(): 2.1457672119140625e-06 seconds
+remove(): 1.9073486328125e-06 seconds
+minElement(): 0.5368950366973877 seconds
+maxElement(): 0.5417783260345459 seconds
+totalTime: 1.0786807537078857 seconds
+
+Computing Time for OxfordMedical.txt
+insertAll(): 0.12156105041503906 seconds
+insert(Anteater): 4.38690185546875e-05 seconds
+lookup(aardvark): 2.3365020751953125e-05 seconds
+remove(the): 2.288818359375e-05 seconds
+minElement(): 0.08349847793579102 seconds
+maxElement(): 0.08406209945678711 seconds
+totalTime: 0.16765069961547852 seconds
